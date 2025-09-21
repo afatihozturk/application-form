@@ -16,3 +16,15 @@ The system allows applicants to fill out their personal information, upload a pr
 ---
 
 ## 📂 Project Structure
+my-form/
+├── src/
+│   ├── assets/         # Static assets
+│   ├── components/     # Vue components (ApplicationForm, Preview)
+│   ├── stores/         # Pinia store for form data
+│   ├── App.vue         # Main app container
+│   └── main.js         # App entry point
+├── public/             # Static public files
+├── package.json        # Dependencies
+├── tailwind.config.js  # Tailwind setup
+└── vite.config.js      # Vite configuration
+
