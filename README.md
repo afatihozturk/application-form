@@ -13,18 +13,3 @@ The system allows applicants to fill out their personal information, upload a pr
 - 🎨 Tailwind CSS styling with custom components
 - ⚡ Built on **Vue 3 + Vite** with state management via **Pinia**
 
----
-
-## 📂 Project Structure
-my-form/
-├── src/ /n
-│   ├── assets/         # Static assets
-│   ├── components/     # Vue components (ApplicationForm, Preview)
-│   ├── stores/         # Pinia store for form data
-│   ├── App.vue         # Main app container
-│   └── main.js         # App entry point
-├── public/             # Static public files
-├── package.json        # Dependencies
-├── tailwind.config.js  # Tailwind setup
-└── vite.config.js      # Vite configuration
-
