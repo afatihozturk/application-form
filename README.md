@@ -17,7 +17,7 @@ The system allows applicants to fill out their personal information, upload a pr
 
 ## 📂 Project Structure
 my-form/
-├── src/
+├── src/ /n
 │   ├── assets/         # Static assets
 │   ├── components/     # Vue components (ApplicationForm, Preview)
 │   ├── stores/         # Pinia store for form data
